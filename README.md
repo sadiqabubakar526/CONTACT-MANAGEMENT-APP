@@ -17,8 +17,8 @@
 
 ## How To Run
 ```
-git clone https://github.com/sadiqabubakar526/Contact-Manager.git
-cd Contact-Manager
+git clone https://github.com/sadiqabubakar526/CONTACT-MANAGEMENT-APP.git
+cd CONTACT-MANAGEMENT-APP
 python manage.py runserver
 ```
 ## Access to the Admin Panel
